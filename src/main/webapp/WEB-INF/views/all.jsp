@@ -8,6 +8,7 @@
 <body>
 
 <ul>
+    <li><a href="./authentication">회원가입 기능 테스트</a></li>
     <li><a href="./test">메인 화면(작업중)</a></li>
     - 검색창 초록색 효과 회색으로 변경<br>
     - 오른쪽 상단의 메뉴 알림 목록, 위시리스트, 메시지 목록, 계정 설정으로 변경<br>
@@ -31,10 +32,15 @@
 
 </ul>
 ** 작업이 필요하다고 생각되는 기능은 아래에 적기**
+<br><br>
+회원가입 기능 추가<br>
+회원가입 기능 관련 문서: https://guiyomi.tistory.com/123#heading7
+<br><br>
+채팅 기능
+<br>
+스토어, 물건 찜 기능
 <br>
 어느 정도 작업이 완료된 후에는 대시보드 페이지 추가 작업(/dist/dashboard/)
-<br>
-회원가입 기능 관련 문서: https://guiyomi.tistory.com/123#heading7
 
 <%--
 // 파이어베이스 sdk 정보

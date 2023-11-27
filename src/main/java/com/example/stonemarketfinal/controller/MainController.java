@@ -11,6 +11,11 @@ public class MainController {
         return "all";
     }
 
+    @RequestMapping(value = "authentication")
+    public String authentication() {
+        return "authentication";
+    }
+
     @RequestMapping(value = "/test") // 메인 화면
     public String test() {
         return "index";
