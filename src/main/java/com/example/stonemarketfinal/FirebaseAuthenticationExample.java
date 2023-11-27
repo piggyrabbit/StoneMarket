@@ -39,6 +39,8 @@ public class FirebaseAuthenticationExample {
 
         UserRecord userRecord = auth.createUser(request);
 
+        // 이 부분에서 이메일 인증 진행 필요
+
         UpdateRequest updateRequest = new UpdateRequest(userRecord.getUid());
         updateRequest.setEmailVerified(true);
 
