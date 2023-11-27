@@ -39,7 +39,4 @@ public class FirebaseConfig {
         // user_5는 문서명. 즉 필드들을 담고 있는 객체 하나
         ApiFuture<WriteResult> apiFuture = db.collection(COLLECTION_NAME).document("user_5").set(user);
     }
-
-
-
 }

@@ -1,7 +1,7 @@
 package com.example.stonemarketfinal;
 
 public class User {
-    String test11;
+    private String test11;
 
     public String getTest11() {
         return test11;

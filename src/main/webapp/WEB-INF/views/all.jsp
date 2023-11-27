@@ -30,8 +30,38 @@
     <li><a href="./add-product">상품 정보 추가</a></li>
 
 </ul>
-
+** 작업이 필요하다고 생각되는 기능은 아래에 적기**
+<br>
 어느 정도 작업이 완료된 후에는 대시보드 페이지 추가 작업(/dist/dashboard/)
+<br>
+회원가입 기능 관련 문서: https://guiyomi.tistory.com/123#heading7
 
+<%--
+// 파이어베이스 sdk 정보
+
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.6.0/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyC_D0h9FrOg79rD7Tgy8QP0G3U2lCn7lcs",
+    authDomain: "stonemarket-fcab9.firebaseapp.com",
+    projectId: "stonemarket-fcab9",
+    storageBucket: "stonemarket-fcab9.appspot.com",
+    messagingSenderId: "46877515345",
+    appId: "1:46877515345:web:9dd8e8e2e4d8e3a7b36270",
+    measurementId: "G-0THTTLZ8GB"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+--%>
 </body>
 </html>
