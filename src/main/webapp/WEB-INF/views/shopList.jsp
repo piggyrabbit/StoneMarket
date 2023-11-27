@@ -844,7 +844,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -902,7 +902,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -957,7 +957,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1009,7 +1009,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1061,7 +1061,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1113,7 +1113,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1165,7 +1165,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1217,7 +1217,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1269,7 +1269,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1321,7 +1321,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1373,7 +1373,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1425,7 +1425,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1477,7 +1477,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1529,7 +1529,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1581,7 +1581,7 @@
                                     <!-- action btn -->
                                     <div class="card-product-action">
                                        <a href="#!" class="btn-action" data-bs-toggle="modal" data-bs-target="#quickViewModal">
-                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="Quick View"></i>
+                                          <i class="bi bi-eye" data-bs-toggle="tooltip" data-bs-html="true" title="상세정보"></i>
                                        </a>
                                        <a href="shop-wishlist.html" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Wishlist"><i class="bi bi-heart"></i></a>
                                        <a href="#!" class="btn-action" data-bs-toggle="tooltip" data-bs-html="true" title="Compare"><i class="bi bi-arrow-left-right"></i></a>
@@ -1665,26 +1665,26 @@
                      <div class="col-lg-6">
                         <!-- img slide -->
                         <div class="product productModal" id="productModal">
-                           <div class="zoom" onmousemove="zoom(event)" style="background-image: url(../assets/images/products/product-single-img-1.jpg)">
+                           <div class="zoom" onmousemove="zoom(event)" style="background-image: url(../assets/images/products/product-img-1.jpg?v=3)">
                               <!-- img -->
-                              <img src="../assets/images/products/product-single-img-1.jpg" alt="" />
+                              <img src="../assets/images/products/product-img-1.jpg?v=3" alt="" />
                            </div>
                            <div>
-                              <div class="zoom" onmousemove="zoom(event)" style="background-image: url(../assets/images/products/product-single-img-2.jpg)">
+                              <div class="zoom" onmousemove="zoom(event)" style="background-image: url(../assets/images/products/product-img-2.jpg?v=3)">
                                  <!-- img -->
-                                 <img src="../assets/images/products/product-single-img-2.jpg" alt="" />
+                                 <img src="../assets/images/products/product-img-2.jpg?v=3" alt="" />
                               </div>
                            </div>
                            <div>
-                              <div class="zoom" onmousemove="zoom(event)" style="background-image: url(../assets/images/products/product-single-img-3.jpg)">
+                              <div class="zoom" onmousemove="zoom(event)" style="background-image: url(../assets/images/products/product-img-2.jpg?v=3); background-size: 150% 150%;">
                                  <!-- img -->
-                                 <img src="../assets/images/products/product-single-img-3.jpg" alt="" />
+                                 <img src="../assets/images/products/product-img-2.jpg?v=3" alt="" />
                               </div>
                            </div>
                            <div>
-                              <div class="zoom" onmousemove="zoom(event)" style="background-image: url(../assets/images/products/product-single-img-4.jpg)">
+                              <div class="zoom" onmousemove="zoom(event)" style="background-image: url(../assets/images/products/product-img-2.jpg?v=3)">
                                  <!-- img -->
-                                 <img src="../assets/images/products/product-single-img-4.jpg" alt="" />
+                                 <img src="../assets/images/products/product-img-2.jpg?v=3" alt="" />
                               </div>
                            </div>
                         </div>
@@ -1694,25 +1694,25 @@
                               <div class="col-3" class="tns-nav-active">
                                  <div class="thumbnails-img">
                                     <!-- img -->
-                                    <img src="../assets/images/products/product-single-img-1.jpg" alt="" />
+                                    <img src="../assets/images/products/product-img-1.jpg?v=3" alt="" />
                                  </div>
                               </div>
                               <div class="col-3">
                                  <div class="thumbnails-img">
                                     <!-- img -->
-                                    <img src="../assets/images/products/product-single-img-2.jpg" alt="" />
+                                    <img src="../assets/images/products/product-img-2.jpg?v=3" alt="" />
                                  </div>
                               </div>
                               <div class="col-3">
                                  <div class="thumbnails-img">
                                     <!-- img -->
-                                    <img src="../assets/images/products/product-single-img-3.jpg" alt="" />
+                                    <img src="../assets/images/products/product-img-2.jpg?v=3" alt="" />
                                  </div>
                               </div>
                               <div class="col-3">
                                  <div class="thumbnails-img">
                                     <!-- img -->
-                                    <img src="../assets/images/products/product-single-img-4.jpg" alt="" />
+                                    <img src="../assets/images/products/product-img-2.jpg?v=3" alt="" />
                                  </div>
                               </div>
                            </div>
@@ -1720,22 +1720,22 @@
                      </div>
                      <div class="col-lg-6">
                         <div class="ps-lg-8 mt-6 mt-lg-0">
-                           <a href="#!" class="mb-4 d-block">Bakery Biscuits</a>
-                           <h2 class="mb-1 h1">Napolitanke Ljesnjak</h2>
-                           <div class="mb-4">
-                              <small class="text-warning">
-                                 <i class="bi bi-star-fill"></i>
-                                 <i class="bi bi-star-fill"></i>
-                                 <i class="bi bi-star-fill"></i>
-                                 <i class="bi bi-star-fill"></i>
-                                 <i class="bi bi-star-half"></i>
-                              </small>
-                              <a href="#" class="ms-2">(30 reviews)</a>
-                           </div>
+                           <a href="#!" class="mb-4 d-block" style="color: black;">판매자명</a>
+                           <h2 class="mb-1 h1">상품 이름</h2>
+<%--                           <div class="mb-4">--%>
+<%--                              <small class="text-warning">--%>
+<%--                                 <i class="bi bi-star-fill"></i>--%>
+<%--                                 <i class="bi bi-star-fill"></i>--%>
+<%--                                 <i class="bi bi-star-fill"></i>--%>
+<%--                                 <i class="bi bi-star-fill"></i>--%>
+<%--                                 <i class="bi bi-star-half"></i>--%>
+<%--                              </small>--%>
+<%--                              <a href="#" class="ms-2">(30 reviews)</a>--%>
+<%--                           </div>--%>
                            <div class="fs-4">
-                              <span class="fw-bold text-dark">$32</span>
-                              <span class="text-decoration-line-through text-muted">$35</span>
-                              <span><small class="fs-6 ms-2 text-danger">26% Off</small></span>
+                              <span class="fw-bold text-dark">13,500</span>
+                              <span class="text-decoration-line-through text-muted">15,000</span>
+                              <span><small class="fs-6 ms-2 text-danger">10% 할인</small></span>
                            </div>
                            <hr class="my-6" />
                            <div class="mb-4">
@@ -1758,12 +1758,12 @@
                                  <!-- btn -->
                                  <button type="button" class="btn btn-primary bg-dark border-0">
                                     <i class="feather-icon icon-shopping-bag me-2"></i>
-                                    Add to cart
+                                    장바구니 추가
                                  </button>
                               </div>
                               <div class="col-md-4 col-5">
                                  <!-- btn -->
-                                 <a class="btn btn-light" href="#" data-bs-toggle="tooltip" data-bs-html="true" aria-label="Compare"><i class="bi bi-arrow-left-right"></i></a>
+<%--                                 <a class="btn btn-light" href="#" data-bs-toggle="tooltip" data-bs-html="true" aria-label="Compare"><i class="bi bi-arrow-left-right"></i></a>--%>
                                  <a class="btn btn-light" href="#!" data-bs-toggle="tooltip" data-bs-html="true" aria-label="Wishlist"><i class="feather-icon icon-heart"></i></a>
                               </div>
                            </div>
@@ -1772,25 +1772,16 @@
                               <table class="table table-borderless">
                                  <tbody>
                                     <tr>
-                                       <td>Product Code:</td>
-                                       <td>FBB00255</td>
+                                       <td>크기(mm)</td>
+                                       <td>25.100 x 15.000 x 5.600 mm</td>
                                     </tr>
                                     <tr>
-                                       <td>Availability:</td>
-                                       <td>In Stock</td>
+                                       <td>무게(cts)</td>
+                                       <td>35cts</td>
                                     </tr>
                                     <tr>
-                                       <td>Type:</td>
-                                       <td>Fruits</td>
-                                    </tr>
-                                    <tr>
-                                       <td>Shipping:</td>
-                                       <td>
-                                          <small>
-                                             01 day shipping.
-                                             <span class="text-muted">( Free pickup today)</span>
-                                          </small>
-                                       </td>
+                                       <td>상세설명</td>
+                                       <td>에티오피아산 오팔 캐보션입니다.</td>
                                     </tr>
                                  </tbody>
                               </table>

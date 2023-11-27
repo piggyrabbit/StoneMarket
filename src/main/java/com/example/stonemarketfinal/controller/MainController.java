@@ -15,4 +15,7 @@ public class MainController {
     public String test2() {
         return "shopList";
     }
+
+    @RequestMapping(value = "test1")
+    public String test3() { return "shopList"; }
 }
