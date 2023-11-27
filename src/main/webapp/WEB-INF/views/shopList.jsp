@@ -80,7 +80,7 @@
                                  class="feather feather-heart">
                                  <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
                               </svg>
-                              <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-success">
+                              <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-info">
                                  5
                                  <span class="visually-hidden">unread messages</span>
                               </span>
@@ -121,7 +121,7 @@
                                  <line x1="3" y1="6" x2="21" y2="6"></line>
                                  <path d="M16 10a4 4 0 0 1-8 0"></path>
                               </svg>
-                              <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-success">
+                              <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-info">
                                  1
                                  <span class="visually-hidden">unread messages</span>
                               </span>
@@ -778,24 +778,24 @@
       <script src="../assets/js/vendors/validation.js"></script>
 
       <main>
-         <div class="mt-4">
-            <div class="container">
-               <!-- row -->
-               <div class="row">
-                  <!-- col -->
-                  <div class="col-12">
-                     <!-- breadcrumb -->
-                     <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb mb-0">
-                           <li class="breadcrumb-item"><a href="#!">홈</a></li>
-                           <li class="breadcrumb-item"><a href="#!">ㅁㄴㅇㄹ</a></li>
-                           <li class="breadcrumb-item active" aria-current="page">오팔</li>
-                        </ol>
-                     </nav>
-                  </div>
-               </div>
-            </div>
-         </div>
+<%--         <div class="mt-4">--%>
+<%--            <div class="container">--%>
+<%--               <!-- row -->--%>
+<%--               <div class="row">--%>
+<%--                  <!-- col -->--%>
+<%--                  <div class="col-12">--%>
+<%--                     <!-- breadcrumb -->--%>
+<%--                     <nav aria-label="breadcrumb">--%>
+<%--                        <ol class="breadcrumb mb-0">--%>
+<%--                           <li class="breadcrumb-item text-dark"><a href="#!">홈</a></li>--%>
+<%--                           <li class="breadcrumb-item text-dark"><a href="#!">ㅁㄴㅇㄹ</a></li>--%>
+<%--                           <li class="breadcrumb-item active" aria-current="page">오팔</li>--%>
+<%--                        </ol>--%>
+<%--                     </nav>--%>
+<%--                  </div>--%>
+<%--               </div>--%>
+<%--            </div>--%>
+<%--         </div>--%>
          <!-- section -->
          <section class="mt-8 mb-lg-14 mb-8">
             <div class="container">
@@ -863,7 +863,7 @@
                                     </div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm bg-dark border-0">
                                           <svg
                                              xmlns="http://www.w3.org/2000/svg"
                                              width="16"
@@ -921,7 +921,7 @@
                                     </div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm  bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -974,7 +974,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm  bg-dark border-0">
                                           <svg
                                              xmlns="http://www.w3.org/2000/svg"
                                              width="16"
@@ -989,7 +989,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1026,7 +1026,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm  bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1041,7 +1041,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1078,7 +1078,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm  bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1093,7 +1093,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1130,7 +1130,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm  bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1145,7 +1145,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1182,7 +1182,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm  bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1197,7 +1197,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1234,7 +1234,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm  bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1249,7 +1249,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1286,7 +1286,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm  bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1301,7 +1301,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1338,7 +1338,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1353,7 +1353,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1390,7 +1390,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1405,7 +1405,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1442,7 +1442,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1457,7 +1457,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1494,7 +1494,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1509,7 +1509,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1546,7 +1546,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1561,7 +1561,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1598,7 +1598,7 @@
                                     <div><span class="text-dark">13,234</span></div>
                                     <!-- btn -->
                                     <div>
-                                       <a href="#!" class="btn btn-primary btn-sm">
+                                       <a href="#!" class="btn btn-primary btn-sm bg-dark border-0">
                                           <svg
                                                   xmlns="http://www.w3.org/2000/svg"
                                                   width="16"
@@ -1613,7 +1613,7 @@
                                              <line x1="12" y1="5" x2="12" y2="19"></line>
                                              <line x1="5" y1="12" x2="19" y2="12"></line>
                                           </svg>
-                                          Add
+                                          버튼
                                        </a>
                                     </div>
                                  </div>
@@ -1756,7 +1756,7 @@
                               <div class="col-lg-4 col-md-5 col-6 d-grid">
                                  <!-- button -->
                                  <!-- btn -->
-                                 <button type="button" class="btn btn-primary">
+                                 <button type="button" class="btn btn-primary bg-dark border-0">
                                     <i class="feather-icon icon-shopping-bag me-2"></i>
                                     Add to cart
                                  </button>

@@ -83,8 +83,8 @@
                                  class="feather feather-heart">
                                  <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
                               </svg>
-                              <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-success">
-                                 5
+                              <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-info">
+                                 3
                                  <span class="visually-hidden">unread messages</span>
                               </span>
                            </a>
@@ -124,7 +124,7 @@
                                  <line x1="3" y1="6" x2="21" y2="6"></line>
                                  <path d="M16 10a4 4 0 0 1-8 0"></path>
                               </svg>
-                              <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-success">
+                              <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-info">
                                  1
                                  <span class="visually-hidden">unread messages</span>
                               </span>
@@ -162,7 +162,7 @@
                      <div class="d-block d-lg-none mb-4">
                         <form action="#">
                            <div class="input-group">
-                              <input class="form-control rounded" type="search" placeholder="Search for products" />
+                              <input class="form-control rounded" type="search" placeholder="상품검색창들어갈곳" />
                               <span class="input-group-append">
                                  <button class="btn bg-white border border-start-0 ms-n10 rounded-0 rounded-end" type="button">
                                     <svg
