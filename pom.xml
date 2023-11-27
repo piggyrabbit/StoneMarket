@@ -35,6 +35,13 @@
             <scope>compile</scope>
         </dependency>
 
+        <!-- 파이어베이스  -->
+        <dependency>
+            <groupId>com.google.firebase</groupId>
+            <artifactId>firebase-admin</artifactId>
+            <version>9.2.0</version>
+        </dependency>
+
         <!-- tomcat-embed-jasper -->
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>

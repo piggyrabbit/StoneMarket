@@ -9,5 +9,4 @@ public class StoneMarketFinalApplication {
     public static void main(String[] args) {
         SpringApplication.run(StoneMarketFinalApplication.class, args);
     }
-
 }
