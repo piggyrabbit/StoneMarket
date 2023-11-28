@@ -33,12 +33,18 @@
 </ul>
 ** 작업이 필요하다고 생각되는 기능은 아래에 적기**
 <br><br>
-회원가입 기능 추가<br>
+회원가입의 이메일 인증 기능 추가(참고 코드: FirebaseAuthenticationExample.java)<br>
 회원가입 기능 관련 문서: https://guiyomi.tistory.com/123#heading7
 <br><br>
-채팅 기능
+채팅 기능 (알림 기능)
 <br>
 스토어, 물건 찜 기능
+<br>
+찜 추가했을 떄 판매자에게 알림 가는 기능
+<br>
+알림 설정하는 기능
+<br>
+페이지가 로딩중일 때 잠시 뜨는 샘플 페이지 추가
 <br>
 어느 정도 작업이 완료된 후에는 대시보드 페이지 추가 작업(/dist/dashboard/)
 
