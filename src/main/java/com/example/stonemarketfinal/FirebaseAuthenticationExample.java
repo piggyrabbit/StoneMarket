@@ -25,7 +25,7 @@ public class FirebaseAuthenticationExample {
 
         FirebaseAuth auth = FirebaseAuth.getInstance();
 
-        String email = "piggyrabbit@naver.com";
+        String email = "piggyrabbit@naver.com"; // 이 부분은 유저에게 입력받은 값으로 대체
         String password = "password";
 
         createAndVerifyUser(auth, email, password);
