@@ -2077,8 +2077,8 @@
                               document.getElementById("copyright").appendChild(document.createTextNode(new Date().getFullYear()));
                            </script>
                         </span>
-                        FreshCart eCommerce HTML Template. All rights reserved. Powered by
-                        <a href="https://codescandy.com/">Codescandy</a>
+                        #원석마켓 site by
+                        <a href="https://google.com/">북토</a>
                         .
                      </span>
                   </div>
