@@ -32,15 +32,21 @@ public class FirebaseAuthenticationExample {
     }
 
     private static void createAndVerifyUser(FirebaseAuth auth, String email, String password) throws FirebaseAuthException {
+        // 회원 가입 요청을 생성할 때 이메일 인증 여부는 기본적으로 false로 설정
         CreateRequest request = new CreateRequest()
                 .setEmail(email)
                 .setPassword(password)
                 .setEmailVerified(false);
 
+        // 유저 생성
         UserRecord userRecord = auth.createUser(request);
 
         // 이 부분에서 이메일 인증 진행 필요
+        auth.generateEmailVerificationLink(email); // 인증 링크 생성
 
+        // 이메일 보내기
+
+        // 이메일 인증 여부 true로 바꾸는 코드
         UpdateRequest updateRequest = new UpdateRequest(userRecord.getUid());
         updateRequest.setEmailVerified(true);
 
